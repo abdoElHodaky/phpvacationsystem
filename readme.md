@@ -50,6 +50,10 @@ Vacations management system project is a Simple web application developed in PHP
 <p> email:emp1@emp.com </p>  
 <p> password:1234 </p>
 
+<b> Credential for user panel : </b>
+
+<p> email:admin1@admin.com </p>  
+<p> password:admin </p>
 
 
 

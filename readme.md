@@ -3,6 +3,6 @@ Vacations management system project  is Simple web application develop in PHP ,M
 
 Vacation Management system is divided in two modules :
 
-<ul> User Module </ul>
-<ul> Admin Module </ul>
+<ol> User Module </ol>
+<ol> Admin Module </ol>
 

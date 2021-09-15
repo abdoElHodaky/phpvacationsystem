@@ -38,7 +38,7 @@ Vacations management system project is a Simple web application developed in PHP
   
   <li> Download the zip file from github. </li>
  <li> Open the command prompt and write the command php -S localhost:4000 to start the php development server </li>
- <li> Extract the zip file and copy the files  into C:\Users\xxx\vacations_management_system-main\vacations .This is an example for my computer </li>
+ <li> Extract the zip file and copy the files  into C:\Users\xxx\vacations_management_system-main\vacations . </li>
  <li> Create a database with the name employees </li>
   <li> Import employee.sql file ( given inside the database folder ) </li>
  <li> Run the script file http://localhost:4000/vacations_management_system-main/vacations/index.php </li>

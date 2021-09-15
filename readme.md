@@ -44,3 +44,9 @@ Vacations management system project is a Simple web application developed in PHP
  <li> Run the script file http://localhost:4000/vacations_management_system-main/vacations/index.php </li>
 
 </ul>
+
+<b> Credential for user panel : </b>
+
+
+
+

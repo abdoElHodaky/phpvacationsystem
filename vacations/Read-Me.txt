@@ -8,13 +8,13 @@ Create a database with the name employees
 Import employee.sql file ( given inside the database folder )
 Run the script file http://localhost:4000/vacations_management_system-main/vacations/index.php
 
-Credential for user panel :
+Credential for user panel 
 
 email:emp1@emp.com
 
 password:1234
 
-Credential for user panel :
+Credential for user panel 
 
 email:admin1@admin.com
 

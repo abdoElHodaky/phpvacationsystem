@@ -26,6 +26,7 @@ Vacations management system project is a Simple web application developed in PHP
   <li> Admin can add new users </li>
   <li> Admin can add new admins </li>
   <li>Admin can accept the employees for vacations or reject them </li>
+  <li> logout </li>
   
   
 </ul>

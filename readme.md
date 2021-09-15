@@ -1,4 +1,4 @@
-Vacations management system project is a Simple web application developed in PHP ,Mysql, using Bootstrap, HTML, CSS and JavaScript, the system contains of admin and user, the admin can manage employee like approve leave, add user, and also check status of employee.
+Vacations management system project is a Simple web application developed in PHP ,Mysql, using Bootstrap, HTML, CSS and JavaScript, the system contains of admin and user, the admin can manage users (employees)  like approve leave, add users, and also check status of users (employees).
 
 
 <b> Vacation Management system is divided in two modules </b> :
@@ -22,8 +22,8 @@ Vacations management system project is a Simple web application developed in PHP
 
 <ul>
   <li>The admin can login himself</li>
-  <li>Admin can Manage all employee records </li>
-  <li> Admin can add new employees </li>
+  <li>Admin can Manage all users records </li>
+  <li> Admin can add new users </li>
   <li> Admin can add new admins </li>
   <li>Admin can accept the employees for vacations or reject them </li>
   

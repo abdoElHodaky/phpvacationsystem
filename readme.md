@@ -9,5 +9,11 @@ Vacations management system project is a Simple web application develop in PHP ,
   
 </ul>
 
-<b> User Module </b>
+<b> User Module  </b>
 
+<ul>
+  <li>The user can register himself</li>
+  <li>User can apply for leave</li>
+  <li> logout </li>
+  
+</ul>

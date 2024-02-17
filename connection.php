@@ -1,9 +1,9 @@
 <?php
 
-$dbhost = "localhost";
-$dbuser = "root";
-$dbpass = "";
-$dbname = "employees";
+$dbhost = "sql.db4free.net";
+$dbuser = "abdo_phpvacation";
+$dbpass = "arh27934";
+$dbname = "phpvactions";
 
 $conn = mysqli_connect($dbhost , $dbuser , $dbpass , $dbname);
 
